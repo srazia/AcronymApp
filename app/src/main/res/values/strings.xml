@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcronymSearchApp</string>
+    <string name="error_message">Error !! Tap to retry.</string>
+    <string name="error_tap_to_retry">ERROR !! Tap to retry.</string>
+</resources>
